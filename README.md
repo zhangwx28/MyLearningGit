@@ -7,6 +7,7 @@ The website I learned git is:
 https://www.liaoxuefeng.com/wiki/896043488029600
 
 &
+
 https://git-scm/
 
 This's Xuefeng Liao's blog.
@@ -22,6 +23,7 @@ pwd
 
 (2)
 git init
+
 // creat an empty repository or reinitialize an exisiting one.
 // this command create an empty Git repository-basically a .git directory with subdirectories for objects, refs/heads, refs/tags, and template file. An initial HEAD file that references the HEAD of the master branch is also created.
 // but what is master branch???
