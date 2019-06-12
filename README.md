@@ -34,11 +34,11 @@ git init
 
 (3)
 vim README.md
-
 // wrote some learning point to the file.
 
 (4)
 git add README.md
-
 // add file contents to the index
 // but
+//
+//
